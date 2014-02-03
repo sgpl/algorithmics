@@ -25,8 +25,21 @@
 
 - around 400-300 BC, Euclid invented an algorithm to find the greatest common divisor of two positive nos. <b>(Euclidian Algorithm is considered the first non-trivial algorithm.)</b>
 
-- first hardware controlled by algorithms: Joseph Jacquard 
+- first hardware controlled by algorithms: Joseph Jacquard's weaving loom. 
 
-- recepies and algorithms relevant to the processes are called software
-- utensils and ovvens represent what is known as hardware. 
+- Charles Babbage 
+	- build "the difference engine" in 1833
+	- planned a machine called "the analytical engine"
+	- considered to have lived well ahead of his time. his ideas weren't appreciated until much later. 
 
+- Ada Byron (Countess of Lovelace)
+	- Babbage's programmer
+	- credited with laying the foundations of programming years before the first working computer was available. 
+
+- Other influential figures: Alan Turing, Kurt Godel, Andrei A Markov, Alonzo Church, Emil Post, Stephen Kleene. 
+
+- recognition of CS as an independent academic discipline occured around the mid 1960s. 
+
+<h5>limitations of computers</h5>
+
+- 
