@@ -25,15 +25,8 @@
 
 - around 400-300 BC, Euclid invented an algorithm to find the greatest common divisor of two positive nos. <b>(Euclidian Algorithm is considered the first non-trivial algorithm.)</b>
 
-- 
+- first hardware controlled by algorithms: Joseph Jacquard 
 
 - recepies and algorithms relevant to the processes are called software
 - utensils and ovvens represent what is known as hardware. 
 
-- many everyday processes are governed by algorithms 
-	- changing a tyre
-	- filing income tax
-	- etc
-	
-#### algorithmics vs computer science
-- 
